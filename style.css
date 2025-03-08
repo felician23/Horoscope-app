@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+}
+body {
+    background-color: blanchedalmond;
+}
+.container {
+    text-align: center;
+}
+#alignContent {
+    text-align: center;
+}
+#frog {
+    font-weight: bold;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#horoscope {
+    text-align: center;
+    padding-top: 1em;
+}
